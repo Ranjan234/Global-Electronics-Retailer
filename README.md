@@ -44,5 +44,5 @@ Sales data for a fictitious global electronics retailer, including tables contai
 - Add slicers for StoreKey and Year, connect to all cards and visuals
 - Adjust formatting and polish for clarity and readability
 - What trends and pattrens do you see? Where would you suggest digging deeper?
-
-  [Dashboard](https://github.com/Ranjan234/Global-Electronics-Retailer/blob/main/Screenshot%202025-08-14%20173658.png)
+ # Dashboard
+  ![Dashboard](https://github.com/Ranjan234/Global-Electronics-Retailer/blob/main/Screenshot%202025-08-14%20173658.png)
