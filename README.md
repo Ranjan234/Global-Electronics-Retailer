@@ -37,7 +37,7 @@ Sales data for a fictitious global electronics retailer, including tables contai
 - Calculate Average Order Value (Aov), based on Total Revenue (USD) and Total Orders.
 - Calculate Average Delivery Time in Days
 
-<h2># Objective 4: Build An Interactive Report
+<h2># Objective 4: Build An Interactive Report </h2>
  
 - Show orders, revenue, AOV and average delivery time as KPI cards
 - Show revenue by month as a Line Chart, and by product Category a bar cahrt
